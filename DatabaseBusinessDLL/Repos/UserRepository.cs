@@ -1,7 +1,7 @@
-using FinanceProjectDBDLL.Interfaces;
+using DatabaseBusinessDLL.Interfaces;
 using FinanceProjectDLL;
 
-namespace FinanceProjectDBDLL.Repos
+namespace DatabaseBusinessDLL.Repos
 {
     public class UserRepository(DatabaseContext context) : IUserRepository
     {

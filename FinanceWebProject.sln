@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceWebProject.Server", 
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "financewebproject.client", "financewebproject.client\financewebproject.client.esproj", "{F3B1DDD3-0A2D-436D-8D4C-B29BDD9118B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseBusinessDLL", "DatabaseBusinessDLL\DatabaseBusinessDLL.csproj", "{1B808A34-9EDC-4261-B14C-B6ADB2F5411F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseBusinessDLL", "DatabaseBusinessDLL\DatabaseBusinessDLL.csproj", "{1B808A34-9EDC-4261-B14C-B6ADB2F5411F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceProjectDLL", "FinanceProjectDLL\FinanceProjectDLL.csproj", "{ACB1370A-861C-4613-A324-8979689F5ABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{1B808A34-9EDC-4261-B14C-B6ADB2F5411F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B808A34-9EDC-4261-B14C-B6ADB2F5411F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B808A34-9EDC-4261-B14C-B6ADB2F5411F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB1370A-861C-4613-A324-8979689F5ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB1370A-861C-4613-A324-8979689F5ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB1370A-861C-4613-A324-8979689F5ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB1370A-861C-4613-A324-8979689F5ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

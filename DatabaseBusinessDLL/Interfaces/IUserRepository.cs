@@ -1,6 +1,6 @@
 using FinanceProjectDLL;
 
-namespace FinanceProjectDBDLL.Interfaces
+namespace DatabaseBusinessDLL.Interfaces
 {
     public interface IUserRepository
     {

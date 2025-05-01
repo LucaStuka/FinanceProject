@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseBusinessDLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba9c2e6fe1a6bd0282f80caa8415fdbbf7603eda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ad739221a3510bc2f2c506ba7e360441a38a08")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseBusinessDLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseBusinessDLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

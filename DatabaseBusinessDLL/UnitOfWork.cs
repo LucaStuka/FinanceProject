@@ -1,8 +1,8 @@
-using FinanceProjectDBDLL.Interfaces;
-using FinanceProjectDBDLL.Repos;
+using DatabaseBusinessDLL.Interfaces;
+using DatabaseBusinessDLL.Repos;
 using FinanceProjectDLL;
 
-namespace FinanceProjectDBDLL
+namespace DatabaseBusinessDLL
 {
     public class UnitOfWork : IUnitOfWork
     {
@@ -31,7 +31,7 @@ namespace FinanceProjectDBDLL
             try
             {
                 var output = await SaveChangesAsync();
-                System.Console.WriteLine("DbChanges: " + output);
+                Console.WriteLine("DbChanges: " + output);
 
                 await transaction.CommitAsync();
             }

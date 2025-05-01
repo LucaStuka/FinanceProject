@@ -1,7 +1,7 @@
 ﻿using FinanceProjectDLL;
 using Microsoft.EntityFrameworkCore;
 
-namespace FinanceProjectDBDLL
+namespace DatabaseBusinessDLL
 {
     public partial class DatabaseContext : DbContext
     {

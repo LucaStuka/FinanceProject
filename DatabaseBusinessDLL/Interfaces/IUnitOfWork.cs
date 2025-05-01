@@ -1,4 +1,4 @@
-namespace FinanceProjectDBDLL.Interfaces
+namespace DatabaseBusinessDLL.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {

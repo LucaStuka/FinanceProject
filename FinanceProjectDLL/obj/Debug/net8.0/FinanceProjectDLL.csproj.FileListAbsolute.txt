@@ -1,0 +1,12 @@
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\bin\Debug\net8.0\FinanceProjectDLL.deps.json
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\bin\Debug\net8.0\FinanceProjectDLL.dll
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\bin\Debug\net8.0\FinanceProjectDLL.pdb
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.AssemblyInfoInputs.cache
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.AssemblyInfo.cs
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.sourcelink.json
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.dll
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\refint\FinanceProjectDLL.dll
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\FinanceProjectDLL.pdb
+C:\Users\Luca\Documents\Codes\vsCode\newRandomProjects\FinanceProject\FinanceProjectDLL\obj\Debug\net8.0\ref\FinanceProjectDLL.dll
